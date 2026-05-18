@@ -32,3 +32,5 @@ Foundational Python and data analysis training for bioinformatics applications
 1. Clone the repository:
    ```bash
    git clone https://github.com/Meti2000-ke/Bioinformatics--foundational.git
+## Run Jupyter notebooks
+jupyter notebook
